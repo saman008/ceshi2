@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D67A4031FD100EF003A4A3F /* twoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D67A4021FD100EF003A4A3F /* twoTableViewController.swift */; };
+		2D67A4061FD10157003A4A3F /* twoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D67A4041FD10157003A4A3F /* twoTableViewCell.swift */; };
+		2D67A4071FD10157003A4A3F /* twoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D67A4051FD10157003A4A3F /* twoTableViewCell.xib */; };
 		2DE34F6E1FBD70BD007CA6AB /* ChatPickUIView(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE34F6D1FBD70BD007CA6AB /* ChatPickUIView(1).swift */; };
 		2DF8B07E1FBD270000D38F4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8B07D1FBD270000D38F4C /* AppDelegate.swift */; };
 		2DF8B0801FBD270000D38F4C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8B07F1FBD270000D38F4C /* ViewController.swift */; };
@@ -16,6 +19,11 @@
 		2DF8B0931FBD270000D38F4C /* ceshi3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8B0921FBD270000D38F4C /* ceshi3Tests.swift */; };
 		2DF8B09E1FBD270000D38F4C /* ceshi3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8B09D1FBD270000D38F4C /* ceshi3UITests.swift */; };
 		2DF8B0AE1FBD276400D38F4C /* XYMenuAnimateView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DF8B0AD1FBD276400D38F4C /* XYMenuAnimateView.m */; };
+		2DF99DA31FD4D826007089B7 /* twoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF99DA21FD4D826007089B7 /* twoDetailViewController.swift */; };
+		2DF99DA51FD4DCB9007089B7 /* twodetaildetailSB.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DF99DA41FD4DCB9007089B7 /* twodetaildetailSB.storyboard */; };
+		2DF99DA71FD4DD5F007089B7 /* twodetaildetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF99DA61FD4DD5F007089B7 /* twodetaildetailTableViewController.swift */; };
+		2DF99DA91FD5070B007089B7 /* webViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF99DA81FD5070B007089B7 /* webViewController.swift */; };
+		2DF99DAF1FD54B78007089B7 /* 图层-3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DF99DAE1FD54B78007089B7 /* 图层-3@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +44,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2D67A4021FD100EF003A4A3F /* twoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoTableViewController.swift; sourceTree = "<group>"; };
+		2D67A4041FD10157003A4A3F /* twoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoTableViewCell.swift; sourceTree = "<group>"; };
+		2D67A4051FD10157003A4A3F /* twoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = twoTableViewCell.xib; sourceTree = "<group>"; };
 		2DE34F6D1FBD70BD007CA6AB /* ChatPickUIView(1).swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ChatPickUIView(1).swift"; sourceTree = "<group>"; };
 		2DF8B07A1FBD270000D38F4C /* ceshi3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ceshi3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DF8B07D1FBD270000D38F4C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -53,6 +64,11 @@
 		2DF8B0AB1FBD271900D38F4C /* ceshi3Bridging_Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ceshi3Bridging_Header.h; sourceTree = "<group>"; };
 		2DF8B0AC1FBD276400D38F4C /* XYMenuAnimateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYMenuAnimateView.h; sourceTree = "<group>"; };
 		2DF8B0AD1FBD276400D38F4C /* XYMenuAnimateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYMenuAnimateView.m; sourceTree = "<group>"; };
+		2DF99DA21FD4D826007089B7 /* twoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoDetailViewController.swift; sourceTree = "<group>"; };
+		2DF99DA41FD4DCB9007089B7 /* twodetaildetailSB.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = twodetaildetailSB.storyboard; sourceTree = "<group>"; };
+		2DF99DA61FD4DD5F007089B7 /* twodetaildetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twodetaildetailTableViewController.swift; sourceTree = "<group>"; };
+		2DF99DA81FD5070B007089B7 /* webViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webViewController.swift; sourceTree = "<group>"; };
+		2DF99DAE1FD54B78007089B7 /* 图层-3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "图层-3@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +119,7 @@
 		2DF8B07C1FBD270000D38F4C /* ceshi3 */ = {
 			isa = PBXGroup;
 			children = (
+				2DF99DAE1FD54B78007089B7 /* 图层-3@2x.png */,
 				2DE34F6D1FBD70BD007CA6AB /* ChatPickUIView(1).swift */,
 				2DF8B0AC1FBD276400D38F4C /* XYMenuAnimateView.h */,
 				2DF8B0AD1FBD276400D38F4C /* XYMenuAnimateView.m */,
@@ -113,6 +130,13 @@
 				2DF8B0861FBD270000D38F4C /* LaunchScreen.storyboard */,
 				2DF8B0891FBD270000D38F4C /* Info.plist */,
 				2DF8B0AB1FBD271900D38F4C /* ceshi3Bridging_Header.h */,
+				2D67A4021FD100EF003A4A3F /* twoTableViewController.swift */,
+				2D67A4041FD10157003A4A3F /* twoTableViewCell.swift */,
+				2D67A4051FD10157003A4A3F /* twoTableViewCell.xib */,
+				2DF99DA21FD4D826007089B7 /* twoDetailViewController.swift */,
+				2DF99DA41FD4DCB9007089B7 /* twodetaildetailSB.storyboard */,
+				2DF99DA61FD4DD5F007089B7 /* twodetaildetailTableViewController.swift */,
+				2DF99DA81FD5070B007089B7 /* webViewController.swift */,
 			);
 			path = ceshi3;
 			sourceTree = "<group>";
@@ -242,9 +266,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DF99DAF1FD54B78007089B7 /* 图层-3@2x.png in Resources */,
 				2DF8B0881FBD270000D38F4C /* LaunchScreen.storyboard in Resources */,
 				2DF8B0851FBD270000D38F4C /* Assets.xcassets in Resources */,
+				2D67A4071FD10157003A4A3F /* twoTableViewCell.xib in Resources */,
 				2DF8B0831FBD270000D38F4C /* Main.storyboard in Resources */,
+				2DF99DA51FD4DCB9007089B7 /* twodetaildetailSB.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,9 +296,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DF99DA31FD4D826007089B7 /* twoDetailViewController.swift in Sources */,
+				2D67A4031FD100EF003A4A3F /* twoTableViewController.swift in Sources */,
+				2DF99DA71FD4DD5F007089B7 /* twodetaildetailTableViewController.swift in Sources */,
 				2DE34F6E1FBD70BD007CA6AB /* ChatPickUIView(1).swift in Sources */,
 				2DF8B0801FBD270000D38F4C /* ViewController.swift in Sources */,
+				2DF99DA91FD5070B007089B7 /* webViewController.swift in Sources */,
 				2DF8B0AE1FBD276400D38F4C /* XYMenuAnimateView.m in Sources */,
+				2D67A4061FD10157003A4A3F /* twoTableViewCell.swift in Sources */,
 				2DF8B07E1FBD270000D38F4C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
